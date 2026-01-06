@@ -1,0 +1,1335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Access your life insurance benefits while you're still alive. National Life Group's Living Benefits through Reyes Financial Agency provides immediate financial relief during health crises.">
+    <title>Living Benefits - Access Life Insurance While You're Alive | Reyes Financial Agency</title>
+    <link rel="stylesheet" href="../css/main.css">
+  
+  <script type="module" async src="https://static.rocket.new/rocket-web.js?_cfg=https%3A%2F%2Flivingben1085back.builtwithrocket.new&_be=https%3A%2F%2Fapplication.rocket.new&_v=0.1.12"></script>
+  <script type="module" defer src="https://static.rocket.new/rocket-shot.js?v=0.0.2"></script>
+  </head>
+<body class="bg-background">
+    <!-- Navigation Header -->
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <nav class="container-custom py-4">
+            <div class="flex items-center justify-between">
+                <!-- Logo -->
+                <div class="flex items-center space-x-3">
+                    <svg class="w-10 h-10" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="20" cy="20" r="18" fill="#2B5A87"/>
+                        <path d="M20 8C13.373 8 8 13.373 8 20C8 26.627 13.373 32 20 32C26.627 32 32 26.627 32 20C32 13.373 26.627 8 20 8ZM20 10C25.514 10 30 14.486 30 20C30 25.514 25.514 30 20 30C14.486 30 10 25.514 10 20C10 14.486 14.486 10 20 10Z" fill="white"/>
+                        <path d="M20 14C16.686 14 14 16.686 14 20C14 23.314 16.686 26 20 26C23.314 26 26 23.314 26 20C26 16.686 23.314 14 20 14ZM20 16C22.209 16 24 17.791 24 20C24 22.209 22.209 24 20 24C17.791 24 16 22.209 16 20C16 17.791 17.791 16 20 16Z" fill="#4A7C59"/>
+                        <circle cx="20" cy="20" r="3" fill="#E67E22"/>
+                    </svg>
+                    <div>
+                        <div class="font-headline text-xl font-bold text-primary">Reyes Financial</div>
+                        <div class="text-xs text-text-secondary">National Life Group Partner</div>
+                    </div>
+                </div>
+                
+                <!-- Desktop Navigation -->
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="#benefits" class="text-text-secondary hover:text-primary font-semibold transition-250">Benefits</a>
+                    <a href="#how-it-works" class="text-text-secondary hover:text-primary font-semibold transition-250">How It Works</a>
+                    <a href="#testimonials" class="text-text-secondary hover:text-primary font-semibold transition-250">Success Stories</a>
+                    <a href="#faq" class="text-text-secondary hover:text-primary font-semibold transition-250">FAQ</a>
+                    <a href="tel:+18005551234" class="flex items-center space-x-2 text-accent hover:text-accent-700 font-bold transition-250">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_19794a246-1767085016252.png" alt="Phone icon" class="w-5 h-5">
+                        <span>(800) 555-1234</span>
+                    </a>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button id="mobile-menu-btn" class="md:hidden p-2" aria-label="Toggle mobile menu">
+                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1b5957374-1766482728093.png" alt="Menu icon" class="w-6 h-6">
+                </button>
+            </div>
+
+            <!-- Mobile Menu -->
+            <div id="mobile-menu" class="hidden md:hidden mt-4 pb-4 border-t border-border pt-4">
+                <div class="flex flex-col space-y-4">
+                    <a href="#benefits" class="text-text-secondary hover:text-primary font-semibold transition-250">Benefits</a>
+                    <a href="#how-it-works" class="text-text-secondary hover:text-primary font-semibold transition-250">How It Works</a>
+                    <a href="#testimonials" class="text-text-secondary hover:text-primary font-semibold transition-250">Success Stories</a>
+                    <a href="#faq" class="text-text-secondary hover:text-primary font-semibold transition-250">FAQ</a>
+                    <a href="tel:+18005551234" class="flex items-center space-x-2 text-accent hover:text-accent-700 font-bold transition-250">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_19794a246-1767085016252.png" alt="Phone icon" class="w-5 h-5">
+                        <span>(800) 555-1234</span>
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="hero" class="relative bg-gradient-to-br from-primary-50 to-secondary-50 overflow-hidden">
+        <div class="absolute inset-0 opacity-10">
+            <svg class="w-full h-full" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="200" cy="200" r="300" fill="#2B5A87"/>
+                <circle cx="1000" cy="600" r="400" fill="#4A7C59"/>
+            </svg>
+        </div>
+        
+        <div class="container-custom relative z-10 py-16 md:py-24 lg:py-32">
+            <div class="grid lg:grid-cols-2 gap-12 items-center">
+                <!-- Hero Content -->
+                <div class="animate-fade-in">
+                    <div class="inline-block bg-accent-50 text-accent-700 px-4 py-2 rounded-full text-sm font-bold mb-6">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1a3a2c8b0-1766856400931.png" alt="Shield check icon" class="inline w-5 h-5 mr-2">
+                        A+ Rated by AM Best
+                    </div>
+                    
+                    <h1 class="text-headline-hero mb-6">
+                        Access Your Life Insurance Benefits <span class="text-accent">While You're Still Alive</span>
+                    </h1>
+                    
+                    <p class="text-subheadline mb-8">
+                        Don't wait until it's too late. National Life Group's Living Benefits gives you immediate access to your policy's value during qualifying health events—covering medical expenses, replacing lost income, and protecting your family when you need it most.
+                    </p>
+
+                    <!-- Trust Bar -->
+                    <div class="grid grid-cols-3 gap-4 mb-8 p-6 bg-white rounded-lg shadow-card">
+                        <div class="text-center">
+                            <div class="text-3xl font-bold text-primary">A+</div>
+                            <div class="text-sm text-text-secondary">AM Best Rating</div>
+                        </div>
+                        <div class="text-center border-l border-r border-border">
+                            <div class="text-3xl font-bold text-primary">170+</div>
+                            <div class="text-sm text-text-secondary">Years in Business</div>
+                        </div>
+                        <div class="text-center">
+                            <div class="text-3xl font-bold text-primary" id="families-counter">50,000+</div>
+                            <div class="text-sm text-text-secondary">Families Protected</div>
+                        </div>
+                    </div>
+
+                    <!-- CTA Buttons -->
+                    <div class="flex flex-col sm:flex-row gap-4">
+                        <a href="#consultation-form" class="btn-primary text-center">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_153404168-1765124895393.png" alt="Calendar icon" class="inline w-5 h-5 mr-2">
+                            Get Free Consultation
+                        </a>
+                        <a href="tel:+18005551234" class="btn-secondary text-center">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_19794a246-1767085016252.png" alt="Phone icon" class="inline w-5 h-5 mr-2">
+                            Call Now: (800) 555-1234
+                        </a>
+                    </div>
+
+                    <p class="text-sm text-text-secondary mt-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1ec70ed64-1767659580821.png" alt="Lock icon" class="inline w-4 h-4 mr-1">
+                        Your information is 100% secure and confidential
+                    </p>
+                </div>
+
+                <!-- Hero Image -->
+                <div class="animate-slide-up">
+                    <div class="relative rounded-2xl overflow-hidden shadow-card-hover">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1820fb52a-1764682800175.png" 
+                             alt="Happy multi-generational family embracing outdoors, representing financial security and peace of mind" 
+                             class="w-full h-[500px] object-cover"
+                             loading="eager"
+                             onerror="this.src='https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=2940&auto=format&fit=crop'; this.onerror=null;">
+                        <div class="absolute inset-0 bg-gradient-to-t from-primary-900/50 to-transparent"></div>
+                        <div class="absolute bottom-6 left-6 right-6 text-white">
+                            <p class="text-lg font-semibold">"Living Benefits saved our family from bankruptcy during my cancer treatment."</p>
+                            <p class="text-sm mt-2">— Maria Rodriguez, Cancer Survivor</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Problem Agitation Section -->
+    <section id="problem" class="section bg-white">
+        <div class="container-custom">
+            <div class="text-center mb-12">
+                <h2 class="text-headline-hero mb-4">The Healthcare Crisis <span class="text-error">Nobody Talks About</span></h2>
+                <p class="text-subheadline max-w-3xl mx-auto">
+                    Medical emergencies don't just threaten your health—they can destroy your family's financial future
+                </p>
+            </div>
+
+            <!-- Statistics Grid -->
+            <div class="grid md:grid-cols-3 gap-8 mb-12">
+                <div class="card-elevated text-center animate-stagger-1">
+                    <div class="w-16 h-16 bg-error-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14f060f37-1767659581619.png" alt="Hospital icon" class="w-8 h-8">
+                    </div>
+                    <div class="text-4xl font-bold text-error mb-2" data-counter="150000">$0</div>
+                    <p class="text-text-secondary">Average Cancer Treatment Cost</p>
+                </div>
+
+                <div class="card-elevated text-center animate-stagger-2">
+                    <div class="w-16 h-16 bg-warning-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1902c1ee7-1767166968107.png" alt="Heart pulse icon" class="w-8 h-8">
+                    </div>
+                    <div class="text-4xl font-bold text-warning mb-2" data-counter="200000">$0</div>
+                    <p class="text-text-secondary">Heart Surgery & Recovery Expenses</p>
+                </div>
+
+                <div class="card-elevated text-center animate-stagger-3">
+                    <div class="w-16 h-16 bg-accent-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1e3094582-1767108141805.png" alt="Cash remove icon" class="w-8 h-8">
+                    </div>
+                    <div class="text-4xl font-bold text-accent mb-2" data-counter="75000">$0</div>
+                    <p class="text-text-secondary">Income Loss During 6-Month Disability</p>
+                </div>
+            </div>
+
+            <!-- Interactive Calculator -->
+            <div class="max-w-2xl mx-auto card-elevated bg-gradient-to-br from-primary-50 to-secondary-50">
+                <h3 class="text-2xl font-bold text-primary mb-6 text-center">Calculate Your Financial Gap</h3>
+                
+                <div class="space-y-6">
+                    <div>
+                        <label for="income-input" class="form-label">Your Annual Income</label>
+                        <div class="relative">
+                            <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-text-secondary">$</span>
+                            <input type="number" 
+                                   id="income-input" 
+                                   class="form-input pl-8" 
+                                   placeholder="75,000" 
+                                   value="75000">
+                        </div>
+                    </div>
+
+                    <div>
+                        <label for="savings-input" class="form-label">Current Emergency Savings</label>
+                        <div class="relative">
+                            <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-text-secondary">$</span>
+                            <input type="number" 
+                                   id="savings-input" 
+                                   class="form-input pl-8" 
+                                   placeholder="10,000" 
+                                   value="10000">
+                        </div>
+                    </div>
+
+                    <button id="calculate-btn" class="btn-primary w-full">
+                        Calculate My Risk
+                    </button>
+
+                    <!-- Results -->
+                    <div id="calculator-results" class="hidden bg-white rounded-lg p-6 border-l-4 border-error">
+                        <div class="flex items-start space-x-4">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_130dd4a37-1767090899747.png" alt="Alert icon" class="w-8 h-8 flex-shrink-0">
+                            <div>
+                                <h4 class="text-xl font-bold text-error mb-2">Your Financial Gap</h4>
+                                <p class="text-3xl font-bold text-primary mb-2" id="gap-amount">$0</p>
+                                <p class="text-text-secondary">This is how much you'd be short during a 6-month health crisis, even with your savings.</p>
+                                <a href="#consultation-form" class="inline-block mt-4 text-accent font-bold hover:text-accent-700">
+                                    Protect Your Family Now →
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Living Benefits Explanation -->
+    <section id="explanation" class="section-alt">
+        <div class="container-custom">
+            <div class="text-center mb-12">
+                <h2 class="text-headline-hero mb-4">Traditional Life Insurance vs. <span class="text-success">Living Benefits</span></h2>
+                <p class="text-subheadline max-w-3xl mx-auto">
+                    See the difference that could save your family's financial future
+                </p>
+            </div>
+
+            <!-- Comparison Table -->
+            <div class="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+                <!-- Traditional Life Insurance -->
+                <div class="card bg-gray-50 border-2 border-border">
+                    <div class="text-center mb-6">
+                        <div class="w-16 h-16 bg-gray-200 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1d533db9c-1766571610545.png" alt="Close icon" class="w-8 h-8">
+                        </div>
+                        <h3 class="text-2xl font-bold text-text-primary">Traditional Life Insurance</h3>
+                    </div>
+
+                    <ul class="space-y-4">
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1d533db9c-1766571610545.png" alt="Close icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-secondary">Only pays after death</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1d533db9c-1766571610545.png" alt="Close icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-secondary">No access during health crises</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1d533db9c-1766571610545.png" alt="Close icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-secondary">Family struggles with medical bills</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1d533db9c-1766571610545.png" alt="Close icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-secondary">Potential bankruptcy during treatment</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1d533db9c-1766571610545.png" alt="Close icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-secondary">Benefits only help after you're gone</span>
+                        </li>
+                    </ul>
+
+                    <div class="mt-6 p-4 bg-white rounded-lg border border-error">
+                        <p class="text-center font-bold text-error">$0 Available During Health Crisis</p>
+                    </div>
+                </div>
+
+                <!-- Living Benefits -->
+                <div class="card-elevated border-2 border-success shadow-card-hover">
+                    <div class="text-center mb-6">
+                        <div class="w-16 h-16 bg-success-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-8 h-8">
+                        </div>
+                        <h3 class="text-2xl font-bold text-success">Living Benefits</h3>
+                        <p class="text-sm text-accent font-bold mt-2">RECOMMENDED</p>
+                    </div>
+
+                    <ul class="space-y-4">
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-primary font-semibold">Access funds while you're alive</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-primary font-semibold">Immediate relief during health events</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-primary font-semibold">Cover medical expenses directly</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-primary font-semibold">Replace lost income during recovery</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                            <span class="text-text-primary font-semibold">Protect family lifestyle when needed</span>
+                        </li>
+                    </ul>
+
+                    <div class="mt-6 p-4 bg-success-50 rounded-lg border border-success">
+                        <p class="text-center font-bold text-success">Up to 90% of Policy Value Available</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Qualifying Events Timeline -->
+            <div class="mt-16 max-w-4xl mx-auto">
+                <h3 class="text-3xl font-bold text-center text-primary mb-8">Qualifying Health Events</h3>
+                
+                <div class="grid md:grid-cols-3 gap-6">
+                    <div class="card-elevated text-center hover:border-accent hover:border-2 transition-all cursor-pointer" onclick="showEventDetails('heart')">
+                        <div class="w-20 h-20 bg-error-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_161e46fad-1767659581801.png" alt="Heart attack icon" class="w-10 h-10">
+                        </div>
+                        <h4 class="text-xl font-bold text-primary mb-2">Heart Attack</h4>
+                        <p class="text-text-secondary mb-4">Immediate access to funds for treatment and recovery</p>
+                        <p class="text-accent font-bold">Average Benefit: $125,000</p>
+                    </div>
+
+                    <div class="card-elevated text-center hover:border-accent hover:border-2 transition-all cursor-pointer" onclick="showEventDetails('cancer')">
+                        <div class="w-20 h-20 bg-warning-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_120b80f6e-1767659584223.png" alt="Cancer ribbon icon" class="w-10 h-10">
+                        </div>
+                        <h4 class="text-xl font-bold text-primary mb-2">Cancer Diagnosis</h4>
+                        <p class="text-text-secondary mb-4">Cover treatment costs and maintain income</p>
+                        <p class="text-accent font-bold">Average Benefit: $150,000</p>
+                    </div>
+
+                    <div class="card-elevated text-center hover:border-accent hover:border-2 transition-all cursor-pointer" onclick="showEventDetails('stroke')">
+                        <div class="w-20 h-20 bg-accent-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1faff78bb-1766949400123.png" alt="Brain icon" class="w-10 h-10">
+                        </div>
+                        <h4 class="text-xl font-bold text-primary mb-2">Stroke</h4>
+                        <p class="text-text-secondary mb-4">Support rehabilitation and family needs</p>
+                        <p class="text-accent font-bold">Average Benefit: $100,000</p>
+                    </div>
+                </div>
+
+                <div class="text-center mt-8">
+                    <p class="text-text-secondary mb-4">Plus coverage for: Organ Transplant, Kidney Failure, Paralysis, Major Burns, and more</p>
+                    <a href="#consultation-form" class="btn-outline">
+                        See All Qualifying Events
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Benefits Showcase -->
+    <section id="benefits" class="section bg-white">
+        <div class="container-custom">
+            <div class="text-center mb-12">
+                <h2 class="text-headline-hero mb-4">Why Families Choose <span class="text-success">Living Benefits</span></h2>
+                <p class="text-subheadline max-w-3xl mx-auto">
+                    Four powerful ways Living Benefits protects your family's financial future
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8">
+                <!-- Benefit 1 -->
+                <div class="card-elevated group hover:shadow-card-hover transition-all">
+                    <div class="flex items-start space-x-4">
+                        <div class="w-16 h-16 bg-success-50 rounded-lg flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14d519954-1767659581616.png" alt="Fast cash icon" class="w-8 h-8">
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-2xl font-bold text-primary mb-3">Immediate Cash Access</h3>
+                            <p class="text-text-secondary mb-4">
+                                Get up to 90% of your policy value within days of a qualifying diagnosis. No waiting, no complicated approval process—just immediate financial relief when you need it most.
+                            </p>
+                            <button onclick="showBenefitStory('cash')" class="text-accent font-bold hover:text-accent-700 flex items-center space-x-2">
+                                <span>Read Maria's Story</span>
+                                <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1291fe4cd-1767542533390.png" alt="Arrow right icon" class="w-5 h-5">
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Benefit 2 -->
+                <div class="card-elevated group hover:shadow-card-hover transition-all">
+                    <div class="flex items-start space-x-4">
+                        <div class="w-16 h-16 bg-primary-50 rounded-lg flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1e5b0a28e-1767659580699.png" alt="Medical expenses icon" class="w-8 h-8">
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-2xl font-bold text-primary mb-3">Medical Expense Coverage</h3>
+                            <p class="text-text-secondary mb-4">
+                                Pay for treatments, medications, and procedures not covered by insurance. Choose the best doctors and facilities without worrying about out-of-pocket costs.
+                            </p>
+                            <button onclick="showBenefitStory('medical')" class="text-accent font-bold hover:text-accent-700 flex items-center space-x-2">
+                                <span>Read Robert's Story</span>
+                                <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1291fe4cd-1767542533390.png" alt="Arrow right icon" class="w-5 h-5">
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Benefit 3 -->
+                <div class="card-elevated group hover:shadow-card-hover transition-all">
+                    <div class="flex items-start space-x-4">
+                        <div class="w-16 h-16 bg-accent-50 rounded-lg flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_16ce56709-1767659581582.png" alt="Income replacement icon" class="w-8 h-8">
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-2xl font-bold text-primary mb-3">Income Replacement</h3>
+                            <p class="text-text-secondary mb-4">
+                                Replace lost wages during recovery so you can focus on healing without financial stress. Keep your mortgage paid, bills current, and family secure.
+                            </p>
+                            <button onclick="showBenefitStory('income')" class="text-accent font-bold hover:text-accent-700 flex items-center space-x-2">
+                                <span>Read Jennifer's Story</span>
+                                <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1291fe4cd-1767542533390.png" alt="Arrow right icon" class="w-5 h-5">
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Benefit 4 -->
+                <div class="card-elevated group hover:shadow-card-hover transition-all">
+                    <div class="flex items-start space-x-4">
+                        <div class="w-16 h-16 bg-secondary-50 rounded-lg flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1d875571e-1767659582233.png" alt="Family protection icon" class="w-8 h-8">
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-2xl font-bold text-primary mb-3">Family Peace of Mind</h3>
+                            <p class="text-text-secondary mb-4">
+                                Protect your family's lifestyle and future. Avoid bankruptcy, foreclosure, and financial devastation during the most challenging time of your life.
+                            </p>
+                            <button onclick="showBenefitStory('family')" class="text-accent font-bold hover:text-accent-700 flex items-center space-x-2">
+                                <span>Read The Thompson's Story</span>
+                                <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1291fe4cd-1767542533390.png" alt="Arrow right icon" class="w-5 h-5">
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section id="how-it-works" class="section-alt">
+        <div class="container-custom">
+            <div class="text-center mb-12">
+                <h2 class="text-headline-hero mb-4">Getting Started is <span class="text-accent">Simple</span></h2>
+                <p class="text-subheadline max-w-3xl mx-auto">
+                    Three easy steps to protect your family's financial future
+                </p>
+            </div>
+
+            <!-- Desktop Steps -->
+            <div class="hidden md:grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+                <!-- Step 1 -->
+                <div class="relative">
+                    <div class="card-elevated text-center">
+                        <div class="w-16 h-16 bg-accent text-white rounded-full flex items-center justify-center mx-auto mb-4 text-2xl font-bold">1</div>
+                        <h3 class="text-xl font-bold text-primary mb-3">Free Evaluation</h3>
+                        <p class="text-text-secondary mb-4">
+                            Schedule a no-obligation consultation with a Reyes Financial advisor. We'll review your current coverage and family needs.
+                        </p>
+                        <p class="text-sm text-accent font-bold">⏱️ 15-20 minutes</p>
+                    </div>
+                    <div class="absolute top-1/2 -right-4 transform -translate-y-1/2 hidden lg:block">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1291fe4cd-1767542533390.png" alt="Arrow right icon" class="w-8 h-8">
+                    </div>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="relative">
+                    <div class="card-elevated text-center">
+                        <div class="w-16 h-16 bg-accent text-white rounded-full flex items-center justify-center mx-auto mb-4 text-2xl font-bold">2</div>
+                        <h3 class="text-xl font-bold text-primary mb-3">Choose Coverage</h3>
+                        <p class="text-text-secondary mb-4">
+                            Select the Living Benefits policy that fits your budget and protection goals. We'll handle all the paperwork.
+                        </p>
+                        <p class="text-sm text-accent font-bold">⏱️ 30-45 minutes</p>
+                    </div>
+                    <div class="absolute top-1/2 -right-4 transform -translate-y-1/2 hidden lg:block">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1291fe4cd-1767542533390.png" alt="Arrow right icon" class="w-8 h-8">
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="card-elevated text-center">
+                    <div class="w-16 h-16 bg-success text-white rounded-full flex items-center justify-center mx-auto mb-4 text-2xl font-bold">3</div>
+                    <h3 class="text-xl font-bold text-primary mb-3">Activate Protection</h3>
+                    <p class="text-text-secondary mb-4">
+                        Your Living Benefits coverage begins. If a qualifying event occurs, access your funds within days.
+                    </p>
+                    <p class="text-sm text-success font-bold">✓ Protected for Life</p>
+                </div>
+            </div>
+
+            <!-- Mobile Steps -->
+            <div class="md:hidden space-y-6">
+                <div class="card-elevated">
+                    <div class="flex items-start space-x-4">
+                        <div class="w-12 h-12 bg-accent text-white rounded-full flex items-center justify-center flex-shrink-0 text-xl font-bold">1</div>
+                        <div>
+                            <h3 class="text-lg font-bold text-primary mb-2">Free Evaluation</h3>
+                            <p class="text-text-secondary text-sm mb-2">
+                                Schedule a no-obligation consultation with a Reyes Financial advisor.
+                            </p>
+                            <p class="text-xs text-accent font-bold">⏱️ 15-20 minutes</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-elevated">
+                    <div class="flex items-start space-x-4">
+                        <div class="w-12 h-12 bg-accent text-white rounded-full flex items-center justify-center flex-shrink-0 text-xl font-bold">2</div>
+                        <div>
+                            <h3 class="text-lg font-bold text-primary mb-2">Choose Coverage</h3>
+                            <p class="text-text-secondary text-sm mb-2">
+                                Select the Living Benefits policy that fits your budget and goals.
+                            </p>
+                            <p class="text-xs text-accent font-bold">⏱️ 30-45 minutes</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-elevated">
+                    <div class="flex items-start space-x-4">
+                        <div class="w-12 h-12 bg-success text-white rounded-full flex items-center justify-center flex-shrink-0 text-xl font-bold">3</div>
+                        <div>
+                            <h3 class="text-lg font-bold text-primary mb-2">Activate Protection</h3>
+                            <p class="text-text-secondary text-sm mb-2">
+                                Your coverage begins. Access funds within days if needed.
+                            </p>
+                            <p class="text-xs text-success font-bold">✓ Protected for Life</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center mt-12">
+                <a href="#consultation-form" class="btn-primary">
+                    Start Your Free Evaluation
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section id="testimonials" class="section bg-white">
+        <div class="container-custom">
+            <div class="text-center mb-12">
+                <h2 class="text-headline-hero mb-4">Real Families, <span class="text-success">Real Results</span></h2>
+                <p class="text-subheadline max-w-3xl mx-auto">
+                    See how Living Benefits changed lives during critical health events
+                </p>
+            </div>
+
+            <!-- Success Metrics -->
+            <div class="grid md:grid-cols-4 gap-6 mb-12 max-w-4xl mx-auto">
+                <div class="text-center">
+                    <div class="text-4xl font-bold text-success mb-2" data-counter="98">0%</div>
+                    <p class="text-sm text-text-secondary">Claims Paid</p>
+                </div>
+                <div class="text-center">
+                    <div class="text-4xl font-bold text-primary mb-2">$<span data-counter="135000">0</span></div>
+                    <p class="text-sm text-text-secondary">Avg Benefit Amount</p>
+                </div>
+                <div class="text-center">
+                    <div class="text-4xl font-bold text-accent mb-2" data-counter="7">0</div>
+                    <p class="text-sm text-text-secondary">Days to Access Funds</p>
+                </div>
+                <div class="text-center">
+                    <div class="text-4xl font-bold text-secondary mb-2" data-counter="15000">0+</div>
+                    <p class="text-sm text-text-secondary">Families Helped</p>
+                </div>
+            </div>
+
+            <!-- Testimonial Cards -->
+            <div class="grid md:grid-cols-3 gap-8">
+                <!-- Testimonial 1 -->
+                <div class="testimonial-card">
+                    <div class="flex items-center space-x-4 mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_16c2cfc34-1763295605817.png" 
+                             alt="Portrait of Maria Rodriguez, breast cancer survivor and Living Benefits recipient" 
+                             class="w-16 h-16 rounded-full object-cover"
+                             onerror="this.src='https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2940&auto=format&fit=crop'; this.onerror=null;">
+                        <div>
+                            <h4 class="font-bold text-primary">Maria Rodriguez</h4>
+                            <p class="text-sm text-text-secondary">Breast Cancer Survivor</p>
+                        </div>
+                    </div>
+                    <div class="flex mb-3">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                    </div>
+                    <p class="text-text-secondary mb-4">
+                        "When I was diagnosed with breast cancer, I accessed $180,000 from my Living Benefits policy within 5 days. It covered my treatment at the best cancer center and replaced my income during recovery. We didn't lose our home or go into debt."
+                    </p>
+                    <div class="flex items-center justify-between text-sm">
+                        <span class="text-success font-bold">Benefit: $180,000</span>
+                        <span class="text-text-secondary">San Diego, CA</span>
+                    </div>
+                </div>
+
+                <!-- Testimonial 2 -->
+                <div class="testimonial-card">
+                    <div class="flex items-center space-x-4 mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1dc64ab65-1763293842844.png" 
+                             alt="Portrait of Robert Chen, heart attack survivor and Living Benefits recipient" 
+                             class="w-16 h-16 rounded-full object-cover"
+                             onerror="this.src='https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=2940&auto=format&fit=crop'; this.onerror=null;">
+                        <div>
+                            <h4 class="font-bold text-primary">Robert Chen</h4>
+                            <p class="text-sm text-text-secondary">Heart Attack Survivor</p>
+                        </div>
+                    </div>
+                    <div class="flex mb-3">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                    </div>
+                    <p class="text-text-secondary mb-4">
+                        "My heart attack at 52 could have destroyed my family financially. Living Benefits gave us $150,000 for surgery, cardiac rehab, and 8 months of lost income. My wife didn't have to work two jobs, and we kept our kids in college."
+                    </p>
+                    <div class="flex items-center justify-between text-sm">
+                        <span class="text-success font-bold">Benefit: $150,000</span>
+                        <span class="text-text-secondary">Austin, TX</span>
+                    </div>
+                </div>
+
+                <!-- Testimonial 3 -->
+                <div class="testimonial-card">
+                    <div class="flex items-center space-x-4 mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1eb624783-1767659583037.png" 
+                             alt="Portrait of Jennifer Williams, disability survivor and Living Benefits recipient" 
+                             class="w-16 h-16 rounded-full object-cover"
+                             onerror="this.src='https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=400'; this.onerror=null;">
+                        <div>
+                            <h4 class="font-bold text-primary">Jennifer Williams</h4>
+                            <p class="text-sm text-text-secondary">Disability Survivor</p>
+                        </div>
+                    </div>
+                    <div class="flex mb-3">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_184280168-1764677508307.png" alt="Star rating icon" class="w-5 h-5">
+                    </div>
+                    <p class="text-text-secondary mb-4">
+                        "A car accident left me unable to work for a year. Living Benefits provided $120,000 that covered our mortgage, bills, and my physical therapy. Without it, we would have lost everything. Now I'm back to work and our family is secure."
+                    </p>
+                    <div class="flex items-center justify-between text-sm">
+                        <span class="text-success font-bold">Benefit: $120,000</span>
+                        <span class="text-text-secondary">Phoenix, AZ</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center mt-12">
+                <p class="text-text-secondary mb-6">Join thousands of families who chose financial protection</p>
+                <a href="#consultation-form" class="btn-primary">
+                    Get Your Free Consultation
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="section-alt">
+        <div class="container-custom">
+            <div class="text-center mb-12">
+                <h2 class="text-headline-hero mb-4">Frequently Asked <span class="text-primary">Questions</span></h2>
+                <p class="text-subheadline max-w-3xl mx-auto">
+                    Get answers to common questions about Living Benefits
+                </p>
+            </div>
+
+            <!-- Search Bar -->
+            <div class="max-w-2xl mx-auto mb-12">
+                <div class="relative">
+                    <input type="text" 
+                           id="faq-search" 
+                           class="form-input pl-12" 
+                           placeholder="Search for answers...">
+                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_194eeb027-1764656322629.png" alt="Search icon" class="absolute left-4 top-1/2 transform -translate-y-1/2 w-6 h-6">
+                </div>
+            </div>
+
+            <!-- FAQ Accordion -->
+            <div class="max-w-3xl mx-auto space-y-4">
+                <!-- FAQ 1 -->
+                <div class="card-elevated">
+                    <button class="faq-question w-full text-left flex items-center justify-between" onclick="toggleFAQ(this)">
+                        <h3 class="text-lg font-bold text-primary pr-4">What health events qualify for Living Benefits?</h3>
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1bc6dbcd8-1764677507415.png" alt="Chevron down icon" class="w-6 h-6 flex-shrink-0 transition-transform">
+                    </button>
+                    <div class="faq-answer hidden mt-4 pt-4 border-t border-border">
+                        <p class="text-text-secondary mb-4">
+                            Living Benefits covers critical illnesses including heart attack, stroke, cancer, organ transplant, kidney failure, paralysis, major burns, and more. Each policy may have specific definitions and requirements.
+                        </p>
+                        <div class="bg-success-50 p-4 rounded-lg">
+                            <p class="text-sm text-success font-bold mb-2">Real Example:</p>
+                            <p class="text-sm text-text-secondary">Maria accessed $180,000 within 5 days of her breast cancer diagnosis to cover treatment and living expenses.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ 2 -->
+                <div class="card-elevated">
+                    <button class="faq-question w-full text-left flex items-center justify-between" onclick="toggleFAQ(this)">
+                        <h3 class="text-lg font-bold text-primary pr-4">Does using Living Benefits affect my death benefit?</h3>
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1bc6dbcd8-1764677507415.png" alt="Chevron down icon" class="w-6 h-6 flex-shrink-0 transition-transform">
+                    </button>
+                    <div class="faq-answer hidden mt-4 pt-4 border-t border-border">
+                        <p class="text-text-secondary mb-4">
+                            Yes, accessing Living Benefits reduces your death benefit by the amount you receive. However, many families find the immediate financial relief during a health crisis is worth more than waiting for the full death benefit.
+                        </p>
+                        <a href="#consultation-form" class="text-accent font-bold hover:text-accent-700">
+                            Discuss your options with an advisor →
+                        </a>
+                    </div>
+                </div>
+
+                <!-- FAQ 3 -->
+                <div class="card-elevated">
+                    <button class="faq-question w-full text-left flex items-center justify-between" onclick="toggleFAQ(this)">
+                        <h3 class="text-lg font-bold text-primary pr-4">How quickly can I access my benefits?</h3>
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1bc6dbcd8-1764677507415.png" alt="Chevron down icon" class="w-6 h-6 flex-shrink-0 transition-transform">
+                    </button>
+                    <div class="faq-answer hidden mt-4 pt-4 border-t border-border">
+                        <p class="text-text-secondary mb-4">
+                            Most Living Benefits claims are processed within 5-10 business days after receiving required medical documentation. Some policies offer accelerated processing for urgent situations.
+                        </p>
+                        <div class="bg-primary-50 p-4 rounded-lg">
+                            <p class="text-sm text-primary font-bold mb-2">Average Processing Time:</p>
+                            <p class="text-sm text-text-secondary">7 days from documentation submission to fund disbursement</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ 4 -->
+                <div class="card-elevated">
+                    <button class="faq-question w-full text-left flex items-center justify-between" onclick="toggleFAQ(this)">
+                        <h3 class="text-lg font-bold text-primary pr-4">Can I add Living Benefits to my existing life insurance?</h3>
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1bc6dbcd8-1764677507415.png" alt="Chevron down icon" class="w-6 h-6 flex-shrink-0 transition-transform">
+                    </button>
+                    <div class="faq-answer hidden mt-4 pt-4 border-t border-border">
+                        <p class="text-text-secondary mb-4">
+                            It depends on your current policy. Some insurers allow you to add Living Benefits riders to existing policies, while others require a new policy. We can review your current coverage and recommend the best option.
+                        </p>
+                        <a href="#consultation-form" class="text-accent font-bold hover:text-accent-700">
+                            Get a free policy review →
+                        </a>
+                    </div>
+                </div>
+
+                <!-- FAQ 5 -->
+                <div class="card-elevated">
+                    <button class="faq-question w-full text-left flex items-center justify-between" onclick="toggleFAQ(this)">
+                        <h3 class="text-lg font-bold text-primary pr-4">Is Living Benefits available in my state?</h3>
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1bc6dbcd8-1764677507415.png" alt="Chevron down icon" class="w-6 h-6 flex-shrink-0 transition-transform">
+                    </button>
+                    <div class="faq-answer hidden mt-4 pt-4 border-t border-border">
+                        <p class="text-text-secondary mb-4">
+                            National Life Group's Living Benefits are available in most U.S. states. State regulations may affect specific policy features and benefits. Contact us to confirm availability in your state.
+                        </p>
+                        <a href="tel:+18005551234" class="text-accent font-bold hover:text-accent-700">
+                            Call (800) 555-1234 to verify →
+                        </a>
+                    </div>
+                </div>
+
+                <!-- FAQ 6 -->
+                <div class="card-elevated">
+                    <button class="faq-question w-full text-left flex items-center justify-between" onclick="toggleFAQ(this)">
+                        <h3 class="text-lg font-bold text-primary pr-4">What if I recover from my illness?</h3>
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1bc6dbcd8-1764677507415.png" alt="Chevron down icon" class="w-6 h-6 flex-shrink-0 transition-transform">
+                    </button>
+                    <div class="faq-answer hidden mt-4 pt-4 border-t border-border">
+                        <p class="text-text-secondary mb-4">
+                            That's wonderful news! The funds you received are yours to keep—there's no repayment required. Your policy continues with a reduced death benefit, and you maintain coverage for future qualifying events depending on your policy terms.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center mt-12">
+                <p class="text-text-secondary mb-4">Still have questions?</p>
+                <a href="#consultation-form" class="btn-outline">
+                    Schedule a Free Consultation
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Consultation Form -->
+    <section id="consultation-form" class="section bg-gradient-to-br from-primary-50 to-secondary-50">
+        <div class="container-custom">
+            <div class="max-w-4xl mx-auto">
+                <div class="text-center mb-12">
+                    <h2 class="text-headline-hero mb-4">Get Your <span class="text-accent">Free Consultation</span></h2>
+                    <p class="text-subheadline">
+                        Speak with a licensed Reyes Financial advisor about protecting your family's future
+                    </p>
+                </div>
+
+                <div class="grid lg:grid-cols-2 gap-8">
+                    <!-- Form -->
+                    <div class="card-elevated">
+                        <form id="consultation-form-element" class="space-y-6">
+                            <div>
+                                <label for="full-name" class="form-label">Full Name *</label>
+                                <input type="text" 
+                                       id="full-name" 
+                                       name="full-name" 
+                                       class="form-input" 
+                                       placeholder="John Smith"
+                                       required>
+                                <p class="form-error hidden" id="name-error">Please enter your full name</p>
+                            </div>
+
+                            <div>
+                                <label for="email" class="form-label">Email Address *</label>
+                                <input type="email" 
+                                       id="email" 
+                                       name="email" 
+                                       class="form-input" 
+                                       placeholder="john.smith@email.com"
+                                       required>
+                                <p class="form-error hidden" id="email-error">Please enter a valid email address</p>
+                            </div>
+
+                            <div>
+                                <label for="phone" class="form-label">Phone Number *</label>
+                                <input type="tel" 
+                                       id="phone" 
+                                       name="phone" 
+                                       class="form-input" 
+                                       placeholder="(555) 123-4567"
+                                       required>
+                                <p class="form-error hidden" id="phone-error">Please enter a valid phone number</p>
+                            </div>
+
+                            <div>
+                                <label for="contact-time" class="form-label">Preferred Contact Time</label>
+                                <select id="contact-time" name="contact-time" class="form-input">
+                                    <option value="">Select a time</option>
+                                    <option value="morning">Morning (9am - 12pm)</option>
+                                    <option value="afternoon">Afternoon (12pm - 5pm)</option>
+                                    <option value="evening">Evening (5pm - 8pm)</option>
+                                </select>
+                            </div>
+
+                            <div>
+                                <label class="form-label">What concerns you most? (Select all that apply)</label>
+                                <div class="space-y-3">
+                                    <label class="flex items-center space-x-3 cursor-pointer">
+                                        <input type="checkbox" name="concerns" value="medical-costs" class="w-5 h-5 text-accent rounded focus:ring-accent">
+                                        <span class="text-text-primary">Medical expense coverage</span>
+                                    </label>
+                                    <label class="flex items-center space-x-3 cursor-pointer">
+                                        <input type="checkbox" name="concerns" value="income-loss" class="w-5 h-5 text-accent rounded focus:ring-accent">
+                                        <span class="text-text-primary">Income replacement during illness</span>
+                                    </label>
+                                    <label class="flex items-center space-x-3 cursor-pointer">
+                                        <input type="checkbox" name="concerns" value="family-security" class="w-5 h-5 text-accent rounded focus:ring-accent">
+                                        <span class="text-text-primary">Family financial security</span>
+                                    </label>
+                                    <label class="flex items-center space-x-3 cursor-pointer">
+                                        <input type="checkbox" name="concerns" value="existing-coverage" class="w-5 h-5 text-accent rounded focus:ring-accent">
+                                        <span class="text-text-primary">Reviewing existing coverage</span>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div>
+                                <label for="message" class="form-label">Additional Information (Optional)</label>
+                                <textarea id="message" 
+                                          name="message" 
+                                          rows="4" 
+                                          class="form-input" 
+                                          placeholder="Tell us about your situation or any specific questions..."></textarea>
+                            </div>
+
+                            <div class="bg-success-50 p-4 rounded-lg border border-success">
+                                <div class="flex items-start space-x-3">
+                                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1a3a2c8b0-1766856400931.png" alt="Shield check icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                                    <div>
+                                        <p class="font-bold text-success mb-1">Free Evaluation Guarantee</p>
+                                        <p class="text-sm text-text-secondary">No obligation, no pressure. Just honest advice about protecting your family.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <button type="submit" class="btn-primary w-full">
+                                <img src="https://img.rocket.new/generatedImages/rocket_gen_img_153404168-1765124895393.png" alt="Calendar icon" class="inline w-5 h-5 mr-2">
+                                Schedule My Free Consultation
+                            </button>
+
+                            <p class="text-xs text-text-secondary text-center">
+                                <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1ec70ed64-1767659580821.png" alt="Lock icon" class="inline w-4 h-4 mr-1">
+                                Your information is secure and will never be shared. By submitting, you agree to be contacted by a Reyes Financial advisor.
+                            </p>
+                        </form>
+                    </div>
+
+                    <!-- Benefits Sidebar -->
+                    <div class="space-y-6">
+                        <div class="card bg-white">
+                            <h3 class="text-xl font-bold text-primary mb-4">What to Expect</h3>
+                            <ul class="space-y-4">
+                                <li class="flex items-start space-x-3">
+                                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                                    <div>
+                                        <p class="font-semibold text-text-primary">Free Policy Review</p>
+                                        <p class="text-sm text-text-secondary">We'll analyze your current coverage and identify gaps</p>
+                                    </div>
+                                </li>
+                                <li class="flex items-start space-x-3">
+                                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                                    <div>
+                                        <p class="font-semibold text-text-primary">Personalized Recommendations</p>
+                                        <p class="text-sm text-text-secondary">Custom solutions based on your family's needs</p>
+                                    </div>
+                                </li>
+                                <li class="flex items-start space-x-3">
+                                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-6 h-6 flex-shrink-0 mt-1">
+                                    <div>
+                                        <p class="font-semibold text-text-primary">No Obligation</p>
+                                        <p class="text-sm text-text-secondary">Get expert advice with zero pressure to buy</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="card bg-primary text-white">
+                            <h3 class="text-xl font-bold mb-4">Prefer to Call?</h3>
+                            <p class="mb-4">Speak with a licensed advisor now</p>
+                            <a href="tel:+18005551234" class="btn-secondary bg-white text-primary hover:bg-accent hover:text-white w-full text-center block">
+                                <img src="https://img.rocket.new/generatedImages/rocket_gen_img_19794a246-1767085016252.png" alt="Phone icon" class="inline w-5 h-5 mr-2">
+                                (800) 555-1234
+                            </a>
+                            <p class="text-sm mt-4 text-primary-100">Monday - Friday: 8am - 8pm EST<br>Saturday: 9am - 5pm EST</p>
+                        </div>
+
+                        <div class="card bg-secondary-50">
+                            <div class="flex items-center space-x-3 mb-3">
+                                <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1c646d5cb-1767659581390.png" alt="Trophy icon" class="w-8 h-8">
+                                <h3 class="text-lg font-bold text-primary">Limited Time Offer</h3>
+                            </div>
+                            <p class="text-text-secondary mb-3">Schedule your consultation this week and receive:</p>
+                            <ul class="space-y-2 text-sm">
+                                <li class="flex items-center space-x-2">
+                                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-4 h-4">
+                                    <span>Comprehensive family protection guide</span>
+                                </li>
+                                <li class="flex items-center space-x-2">
+                                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-4 h-4">
+                                    <span>Healthcare cost calculator tool</span>
+                                </li>
+                                <li class="flex items-center space-x-2">
+                                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14a0ca6db-1766548536183.png" alt="Check icon" class="w-4 h-4">
+                                    <span>Priority scheduling with senior advisors</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Trust & Credentials -->
+    <section id="trust" class="section bg-white">
+        <div class="container-custom">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-primary mb-4">Trusted Partnership, Proven Results</h2>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div class="text-center">
+                    <div class="w-20 h-20 bg-primary-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_173633e39-1767659582277.png" alt="Shield star icon" class="w-10 h-10">
+                    </div>
+                    <h3 class="font-bold text-primary mb-2">A+ AM Best Rating</h3>
+                    <p class="text-sm text-text-secondary">Superior financial strength and stability</p>
+                </div>
+
+                <div class="text-center">
+                    <div class="w-20 h-20 bg-success-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1e2fa2561-1767094105279.png" alt="Certificate icon" class="w-10 h-10">
+                    </div>
+                    <h3 class="font-bold text-primary mb-2">Licensed in 49 States</h3>
+                    <p class="text-sm text-text-secondary">Nationwide coverage and expertise</p>
+                </div>
+
+                <div class="text-center">
+                    <div class="w-20 h-20 bg-accent-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14f99bc91-1767522014091.png" alt="People icon" class="w-10 h-10">
+                    </div>
+                    <h3 class="font-bold text-primary mb-2">15,000+ Families</h3>
+                    <p class="text-sm text-text-secondary">Protected through Living Benefits</p>
+                </div>
+
+                <div class="text-center">
+                    <div class="w-20 h-20 bg-secondary-50 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1b56e410e-1766920600627.png" alt="Clock check icon" class="w-10 h-10">
+                    </div>
+                    <h3 class="font-bold text-primary mb-2">170+ Years</h3>
+                    <p class="text-sm text-text-secondary">National Life Group heritage</p>
+                </div>
+            </div>
+
+            <div class="mt-12 max-w-3xl mx-auto card-elevated bg-gradient-to-r from-primary-50 to-secondary-50">
+                <div class="flex items-center space-x-4">
+                    <img src="https://img.rocket.new/generatedImages/rocket_gen_img_14bff7831-1766620330384.png" alt="Information icon" class="w-12 h-12 flex-shrink-0">
+                    <div>
+                        <h3 class="font-bold text-primary mb-2">About Reyes Financial Agency</h3>
+                        <p class="text-text-secondary text-sm">
+                            As an authorized National Life Group partner, Reyes Financial Agency specializes in Living Benefits solutions for families across America. Our licensed advisors provide personalized guidance to help you make informed decisions about protecting your family's financial future during life's most challenging moments.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-primary-900 text-white py-12">
+        <div class="container-custom">
+            <div class="grid md:grid-cols-4 gap-8 mb-8">
+                <!-- Company Info -->
+                <div>
+                    <div class="flex items-center space-x-3 mb-4">
+                        <svg class="w-10 h-10" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="20" cy="20" r="18" fill="#ffffff"/>
+                            <path d="M20 8C13.373 8 8 13.373 8 20C8 26.627 13.373 32 20 32C26.627 32 32 26.627 32 20C32 13.373 26.627 8 20 8ZM20 10C25.514 10 30 14.486 30 20C30 25.514 25.514 30 20 30C14.486 30 10 25.514 10 20C10 14.486 14.486 10 20 10Z" fill="#2B5A87"/>
+                            <path d="M20 14C16.686 14 14 16.686 14 20C14 23.314 16.686 26 20 26C23.314 26 26 23.314 26 20C26 16.686 23.314 14 20 14ZM20 16C22.209 16 24 17.791 24 20C24 22.209 22.209 24 20 24C17.791 24 16 22.209 16 20C16 17.791 17.791 16 20 16Z" fill="#4A7C59"/>
+                            <circle cx="20" cy="20" r="3" fill="#E67E22"/>
+                        </svg>
+                        <div>
+                            <div class="font-headline text-lg font-bold">Reyes Financial</div>
+                            <div class="text-xs text-primary-200">National Life Group Partner</div>
+                        </div>
+                    </div>
+                    <p class="text-sm text-primary-200 mb-4">
+                        Protecting families through Living Benefits life insurance solutions since 2010.
+                    </p>
+                </div>
+
+                <!-- Quick Links -->
+                <div>
+                    <h4 class="font-bold mb-4">Quick Links</h4>
+                    <ul class="space-y-2 text-sm">
+                        <li><a href="#benefits" class="text-primary-200 hover:text-white transition-250">Benefits</a></li>
+                        <li><a href="#how-it-works" class="text-primary-200 hover:text-white transition-250">How It Works</a></li>
+                        <li><a href="#testimonials" class="text-primary-200 hover:text-white transition-250">Success Stories</a></li>
+                        <li><a href="#faq" class="text-primary-200 hover:text-white transition-250">FAQ</a></li>
+                        <li><a href="#consultation-form" class="text-primary-200 hover:text-white transition-250">Get Consultation</a></li>
+                    </ul>
+                </div>
+
+                <!-- Resources -->
+                <div>
+                    <h4 class="font-bold mb-4">Resources</h4>
+                    <ul class="space-y-2 text-sm">
+                        <li><a href="javascript:void(0)" class="text-primary-200 hover:text-white transition-250">Living Benefits Guide</a></li>
+                        <li><a href="javascript:void(0)" class="text-primary-200 hover:text-white transition-250">Healthcare Cost Calculator</a></li>
+                        <li><a href="javascript:void(0)" class="text-primary-200 hover:text-white transition-250">Policy Comparison Tool</a></li>
+                        <li><a href="javascript:void(0)" class="text-primary-200 hover:text-white transition-250">State Availability</a></li>
+                        <li><a href="javascript:void(0)" class="text-primary-200 hover:text-white transition-250">Privacy Policy</a></li>
+                    </ul>
+                </div>
+
+                <!-- Contact -->
+                <div>
+                    <h4 class="font-bold mb-4">Contact Us</h4>
+                    <ul class="space-y-3 text-sm">
+                        <li class="flex items-start space-x-2">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_19794a246-1767085016252.png" alt="Phone icon" class="w-5 h-5 flex-shrink-0 mt-0.5">
+                            <div>
+                                <a href="tel:+18005551234" class="text-primary-200 hover:text-white transition-250">(800) 555-1234</a>
+                                <p class="text-xs text-primary-300">Mon-Fri: 8am-8pm EST</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start space-x-2">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1154c588e-1767115667753.png" alt="Email icon" class="w-5 h-5 flex-shrink-0 mt-0.5">
+                            <a href="mailto:info@reyesfinancial.com" class="text-primary-200 hover:text-white transition-250">info@reyesfinancial.com</a>
+                        </li>
+                        <li class="flex items-start space-x-2">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_11407ebac-1766822096581.png" alt="Location icon" class="w-5 h-5 flex-shrink-0 mt-0.5">
+                            <span class="text-primary-200">Licensed in 49 States</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Bottom Bar -->
+            <div class="border-t border-primary-700 pt-8">
+                <div class="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
+                    <p class="text-sm text-primary-200">
+                        © 2026 Reyes Financial Agency. All Rights Reserved.
+                    </p>
+                    <div class="flex items-center space-x-6">
+                        <a href="javascript:void(0)" class="text-primary-200 hover:text-white transition-250">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_1de1c197c-1767382101482.png" alt="Facebook icon" class="w-6 h-6">
+                        </a>
+                        <a href="javascript:void(0)" class="text-primary-200 hover:text-white transition-250">
+                            <img src="https://images.unsplash.com/photo-1667235326880-324e1a51d40b" alt="Twitter icon" class="w-6 h-6">
+                        </a>
+                        <a href="javascript:void(0)" class="text-primary-200 hover:text-white transition-250">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_133e4cbf8-1767659582419.png" alt="LinkedIn icon" class="w-6 h-6">
+                        </a>
+                        <a href="javascript:void(0)" class="text-primary-200 hover:text-white transition-250">
+                            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_19e7b2b47-1767659581623.png" alt="Instagram icon" class="w-6 h-6">
+                        </a>
+                    </div>
+                </div>
+                <p class="text-xs text-primary-300 mt-4 text-center md:text-left">
+                    Insurance products offered through Reyes Financial Agency, an authorized representative of National Life Group. Not all products available in all states. Policy terms, conditions, and exclusions apply.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Sticky CTA Button (Mobile) -->
+    <div id="sticky-cta" class="fixed bottom-6 right-6 z-40 hidden">
+        <a href="#consultation-form" class="btn-primary shadow-card-hover flex items-center space-x-2">
+            <img src="https://img.rocket.new/generatedImages/rocket_gen_img_153404168-1765124895393.png" alt="Calendar icon" class="w-5 h-5">
+            <span>Get Free Consultation</span>
+        </a>
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        // Mobile Menu Toggle
+        const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+        const mobileMenu = document.getElementById('mobile-menu');
+        
+        mobileMenuBtn.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        // Animated Counters
+        function animateCounter(element, target, duration = 2000) {
+            const start = 0;
+            const increment = target / (duration / 16);
+            let current = start;
+            
+            const timer = setInterval(() => {
+                current += increment;
+                if (current >= target) {
+                    element.textContent = target.toLocaleString();
+                    clearInterval(timer);
+                } else {
+                    element.textContent = Math.floor(current).toLocaleString();
+                }
+            }, 16);
+        }
+
+        // Observe counters and animate when in view
+        const counterObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting && !entry.target.classList.contains('animated')) {
+                    const target = parseInt(entry.target.getAttribute('data-counter'));
+                    animateCounter(entry.target, target);
+                    entry.target.classList.add('animated');
+                }
+            });
+        }, { threshold: 0.5 });
+
+        document.querySelectorAll('[data-counter]').forEach(counter => {
+            counterObserver.observe(counter);
+        });
+
+        // Calculator Functionality
+        const calculateBtn = document.getElementById('calculate-btn');
+        const incomeInput = document.getElementById('income-input');
+        const savingsInput = document.getElementById('savings-input');
+        const resultsDiv = document.getElementById('calculator-results');
+        const gapAmount = document.getElementById('gap-amount');
+
+        calculateBtn.addEventListener('click', () => {
+            const income = parseFloat(incomeInput.value) || 0;
+            const savings = parseFloat(savingsInput.value) || 0;
+            
+            // Calculate 6-month income + average medical costs - savings
+            const sixMonthIncome = (income / 2);
+            const avgMedicalCosts = 150000; // Average critical illness cost
+            const totalNeed = sixMonthIncome + avgMedicalCosts;
+            const gap = Math.max(0, totalNeed - savings);
+            
+            gapAmount.textContent = '$' + gap.toLocaleString();
+            resultsDiv.classList.remove('hidden');
+            resultsDiv.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        });
+
+        // FAQ Toggle
+        function toggleFAQ(button) {
+            const answer = button.nextElementSibling;
+            const icon = button.querySelector('img');
+            
+            answer.classList.toggle('hidden');
+            icon.style.transform = answer.classList.contains('hidden') ? 'rotate(0deg)' : 'rotate(180deg)';
+        }
+
+        // FAQ Search
+        const faqSearch = document.getElementById('faq-search');
+        faqSearch.addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const faqItems = document.querySelectorAll('.card-elevated');
+            
+            faqItems.forEach(item => {
+                const question = item.querySelector('.faq-question h3').textContent.toLowerCase();
+                const answer = item.querySelector('.faq-answer')?.textContent.toLowerCase() || '';
+                
+                if (question.includes(searchTerm) || answer.includes(searchTerm)) {
+                    item.style.display = 'block';
+                } else {
+                    item.style.display = searchTerm ? 'none' : 'block';
+                }
+            });
+        });
+
+        // Form Validation
+        const consultationForm = document.getElementById('consultation-form-element');
+        
+        consultationForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            
+            let isValid = true;
+            
+            // Name validation
+            const nameInput = document.getElementById('full-name');
+            const nameError = document.getElementById('name-error');
+            if (nameInput.value.trim().length < 2) {
+                nameError.classList.remove('hidden');
+                isValid = false;
+            } else {
+                nameError.classList.add('hidden');
+            }
+            
+            // Email validation
+            const emailInput = document.getElementById('email');
+            const emailError = document.getElementById('email-error');
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            if (!emailRegex.test(emailInput.value)) {
+                emailError.classList.remove('hidden');
+                isValid = false;
+            } else {
+                emailError.classList.add('hidden');
+            }
+            
+            // Phone validation
+            const phoneInput = document.getElementById('phone');
+            const phoneError = document.getElementById('phone-error');
+            const phoneRegex = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+            if (!phoneRegex.test(phoneInput.value.replace(/\s/g, ''))) {
+                phoneError.classList.remove('hidden');
+                isValid = false;
+            } else {
+                phoneError.classList.add('hidden');
+            }
+            
+            if (isValid) {
+                // Show success message
+                alert('Thank you! A Reyes Financial advisor will contact you within 24 hours to schedule your free consultation.');
+                consultationForm.reset();
+            }
+        });
+
+        // Sticky CTA Button
+        const stickyCTA = document.getElementById('sticky-cta');
+        let scrollTimeout;
+        
+        window.addEventListener('scroll', () => {
+            clearTimeout(scrollTimeout);
+            
+            if (window.scrollY > 1000) {
+                stickyCTA.classList.remove('hidden');
+            }
+            
+            scrollTimeout = setTimeout(() => {
+                if (window.scrollY < 1000) {
+                    stickyCTA.classList.add('hidden');
+                }
+            }, 100);
+        });
+
+        // Smooth Scroll for Anchor Links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                    // Close mobile menu if open
+                    mobileMenu.classList.add('hidden');
+                }
+            });
+        });
+
+        // Modal Functions (Placeholder for future implementation)
+        function showEventDetails(eventType) {
+            console.log('Show details for:', eventType);
+            // Future: Open modal with detailed event information
+        }
+
+        function showBenefitStory(benefitType) {
+            console.log('Show story for:', benefitType);
+            // Future: Open modal with customer testimonial video/story
+        }
+    </script>
+<script id="dhws-dataInjector" src="../public/dhws-data-injector.js"></script>
+</body>
+</html>
